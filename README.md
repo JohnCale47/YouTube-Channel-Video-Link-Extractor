@@ -1,3 +1,4 @@
+
 Extracts All video links from a YouTube Channel using YouTube Data API and Python ❤️
 -----------------
 ## Installing Google API Python Client
@@ -8,6 +9,7 @@ Extracts All video links from a YouTube Channel using YouTube Data API and Pytho
  
  - Go here [commentpicker.com/youtube-channel-id](https://commentpicker.com/youtube-channel-id.php)
  - Paste in the URL of the YT Channel and Click **Get YouTube Channel ID Button**
+ - Copy the Channel ID
  ## Editing `extractor.py`
  
  - Open `extractor.py` using your favorite text editor and scroll down to `Line 38 and 39`
@@ -15,6 +17,8 @@ Extracts All video links from a YouTube Channel using YouTube Data API and Pytho
  - Replace `THE_CHANNEL_ID` with the Channel ID you got from the Site.
  - and **SAVE!**
 ## Running `extractor.py`
- - Well.. Just do `python extractor.py` lol
-
-Umma 😘
+ - Well.. Just do `python extractor.py` and Copy all the Video IDs
+ - Use [browserling.com/tools/prefix-suffix-lines](https://www.browserling.com/tools/prefix-suffix-lines) to add Prefix to the Video IDs
+ - Prefix String: `https://www.youtube.com/watch?v=` and done there is your Links..
+		 
+Bei bei and Umma 😘
