@@ -22,6 +22,7 @@ Extracts All video links from a YouTube Channel using YouTube Data API and Pytho
  - Use [browserling.com/tools/prefix-suffix-lines](https://www.browserling.com/tools/prefix-suffix-lines) to add Prefix to the Video IDs [make sure to remove the `"` and `,` s from Video IDs
  - Prefix String: `https://www.youtube.com/watch?v=` and done there is your Links..
 ----------------
+## Update
  OR **You can skip all the formating by using** `extractorv2.py` which gives you Video Links instead of Video IDs.
 		 
 Bei bei and Umma 😘
