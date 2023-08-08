@@ -1,5 +1,5 @@
 
-Extracts All video links from a YouTube Channel using YouTube Data API and Python ❤️
+Extracts All video links from a YouTube Channel using YouTube Data API
 -----------------
 ## Installing Google API Python Client
  - Do `pip install google-api-python-client`
@@ -24,5 +24,5 @@ Extracts All video links from a YouTube Channel using YouTube Data API and Pytho
 ----------------
 ## Update
  OR **You can skip all the formating by using** `extractorv2.py` which gives you Video Links instead of Video IDs.
-		 
+
 Bei bei and Umma 😘
