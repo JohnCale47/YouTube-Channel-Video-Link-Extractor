@@ -35,8 +35,8 @@ def get_channel_videos(api_key, channel_id):
     return videos
 
 if __name__ == "__main__":
-    API_KEY = "AIzaSyDpu-yw-E-y0ZJAGI-A4RPmC4SPxr_lxiY" # Replace it with YouTube Data API 
-    CHANNEL_ID = "UClYNH0Ho5mX2cf2pxg4qGGA"  # Replace with the ID of the YouTube channel you want to extract videos from
+    API_KEY = "YOUR API KEY HERE" # Replace it with YouTube Data API 
+    CHANNEL_ID = "CHANNEL ID"  # Replace with the ID of the YouTube channel you want to extract videos from
 
     videos = get_channel_videos(API_KEY, CHANNEL_ID)
     
